@@ -1,1 +1,11 @@
-{}
+{
+  "name": "haskell-starter",
+  "description": "Sample Haskell application for the Catalyze Stratum Platform",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "install": "./install"
+  },
+  "dependencies": {}
+}
+
